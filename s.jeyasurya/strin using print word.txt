@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    char a1[10]={"hello"};
+    char a2[10]={'h','e','l','l','o'};
+    printf("%s\n",a1);
+    printf("%s\n",a2);
+
+}
